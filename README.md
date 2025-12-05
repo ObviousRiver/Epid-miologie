@@ -388,6 +388,6 @@ Si vous utilisez ce travail dans vos recherches, merci de citer :
 
 ---
 
-**Dernière mise à jour** : Décembre 2024
+**Dernière mise à jour** : Décembre 2025
 **Version** : 1.0
 **Statut** : ✅ Étude complète 10 pays publiée

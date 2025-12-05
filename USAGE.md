@@ -15,15 +15,7 @@ cd Epid-miologie
 pip install -r requirements.txt
 ```
 
-### 3. Configuration Kaggle API
-
-Pour télécharger les données COVID-19, vous devez configurer votre clé API Kaggle:
-
-1. Créez un compte sur [Kaggle](https://www.kaggle.com/)
-2. Allez dans votre profil > Account > API > "Create New API Token"
-3. Cela téléchargera un fichier `kaggle.json`
-4. Placez ce fichier dans `~/.kaggle/kaggle.json` (Linux/Mac) ou `C:\Users\<Utilisateur>\.kaggle\kaggle.json` (Windows)
-5. Définissez les permissions: `chmod 600 ~/.kaggle/kaggle.json`
+Les données COVID-19 proviennent directement du dépôt [Johns Hopkins CSSE COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19) et sont téléchargées automatiquement lors de l'exécution des scripts.
 
 ## Utilisation
 
@@ -165,14 +157,6 @@ Pays disponibles dans le dataset:
 - Et beaucoup d'autres...
 
 ## Troubleshooting
-
-### Erreur d'authentification Kaggle
-
-```
-OSError: Could not find kaggle.json
-```
-
-**Solution:** Vérifiez que le fichier `kaggle.json` est dans `~/.kaggle/` avec les bonnes permissions (600).
 
 ### Erreur de convergence
 

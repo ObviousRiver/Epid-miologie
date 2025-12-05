@@ -353,7 +353,7 @@ Cette découverte établit un lien profond entre :
 
 ---
 
-**Date de l'étude** : Décembre 2024
+**Date de l'étude** : Décembre 2025
 **Données** : Johns Hopkins University CSSE COVID-19 Data Repository
 **Période** : Vague 1 COVID-19 (Février-Juin 2020)
 **Pays analysés** : 10 (Italie, France, Espagne, Allemagne, UK, Belgique, Suisse, Autriche, Suède, Norvège)
