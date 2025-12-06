@@ -24,7 +24,7 @@ import os
 
 # --- CONFIGURATION ---
 URL_DATA_GOUV = "https://www.data.gouv.fr/fr/datasets/r/63352e38-d353-4b54-bfd1-f1b3ee1cabd7"
-LOCAL_DATA_PATH = "data/donnees-hospitalieres-nouvelle-france.csv"
+LOCAL_DATA_PATH = "data/covid-hospit-2023-03-31-18h01.csv"  # Fichier réel uploadé
 
 REGIONS_CODES = {
     "Grand Est": ['08', '10', '51', '52', '54', '55', '57', '67', '68', '88'],
